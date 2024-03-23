@@ -1,2 +1,2 @@
-# Trendy-Tunes
-A Music Player Web Application 
+# Music-Player
+Music Player Web Application 
